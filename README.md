@@ -1,4 +1,4 @@
-# Amazon-
+# Amazon
 Data analysis project that deals with cleaning, transforming data and visualization to create dashboard. The tool used is Microsoft Excel
 ## Project Overview
 The rate at which E-Commerce is frequently used nowadays is upscaling hence, insights is required to provide notable suggestions in which online gadgets shopping use is improved and managed.
